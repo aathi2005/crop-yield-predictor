@@ -3,3 +3,13 @@
 
 
 Aathirithika S
+
+screen short:
+1.Run the commend python app.py 
+   ![alt text](image.png)
+
+2.Give input (crop)
+   ![alt text](image-1.png)
+
+3.Then the predictor runs get a output
+   ![alt text](image-2.png)
